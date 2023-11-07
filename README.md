@@ -29,3 +29,9 @@ options:
 - h  ->   Print the help menu
 
 - s  ->   Save the output in /root/.mariadbPhpma.output
+
+## CREDITS ##
+Author: BennyxDev
+Website: https://arctis-network.serveftp.com
+Discord: https://discord.gg/jQsJjhwrcM
+EMail: arctis.netzwerk@aol.com
