@@ -48,12 +48,12 @@ function input() {
 
   clear
 
-  status "Create a special account for PHPMyAdmin access (this is going to disable the PHPMyAdmin access with root)?" "/"
+  status "Coded By BennyxDev / Github: BennyxDev / Website: arctis-network.serveftp.com /" "/"
 
   echo "-------------"
   echo "By BennyxDev"
   echo "-------------"
-  export OPTIONS=("Einfach Halten" "Schwer, aber sicher")
+  export OPTIONS=("Einfach Halten" "Schwer, aber sicher (BROKEN/KAPPUT)")
     bashSelect
     case $? in
       0 )
@@ -433,9 +433,9 @@ function output() {
   fi
 
   printf "\nSave the following:\n\n"
-  echo -e"
+  echo "
     --------------------
-    ${RED} By BennyxDev 
+    ${RED}By BennyxDev 
     --------------------
   MariaDB-Daten:
      IP/Host: localhost
