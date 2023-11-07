@@ -53,7 +53,7 @@ function input() {
   echo "-------------"
   echo "By BennyxDev"
   echo "-------------"
-  export OPTIONS=("Einfach Halten" "Schwer, aber sicher (BROKEN/KAPPUT)")
+  export OPTIONS=("Einfach Halten" "Schwer, aber sicher (BROKEN/KAPPUT)" "LÖSCHE DATENBANK (in wartung)")
     bashSelect
     case $? in
       0 )
