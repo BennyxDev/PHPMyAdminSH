@@ -1,3 +1,5 @@
+#GER Version
+## Eng Version SOON
 # PHPMyAdminSH | By BennyxDev
 
 To run the installer simply run the following command and follow the instructions
