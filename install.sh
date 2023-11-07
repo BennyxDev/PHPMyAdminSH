@@ -106,7 +106,7 @@ function serverCheck() {
   mariadb --version
   if [[ $? != 127 ]]; then
     status "MariaDB ist schon installiert! \nSoll es gelöscht werden, oder nur das passwort zurückgesetzt werden?" "/"
-    export OPTIONS=("Reset MySQL/MariaDB password and proceed to install PHPMyAdmin" "Remove the MariaDB/MySQL server and every database" "Exit the script ")
+    export OPTIONS=("Lösche MySQL/MariaDB passwort und weiter zum download (PHPMyAdmin)" "Lösche den MariaDB/MySQL server und alle datenbanken" "Verlasse das Script ")
     bashSelect
     case $? in
       0 )
