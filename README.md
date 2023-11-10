@@ -35,6 +35,7 @@ options:
 
 ## CREDITS ##
 Author: JulianGransee
+|
 ReCoder: BennyxDev
 
 ## Links ##
