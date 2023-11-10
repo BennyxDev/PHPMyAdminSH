@@ -34,7 +34,8 @@ options:
 - s  ->   Save the output in /root/.mariadbPhpma.output
 
 ## CREDITS ##
-Author: BennyxDev
+Author: JulianGransee
+ReCoder: BennyxDev
 Website: https://arctis-network.serveftp.com
 Discord: https://discord.gg/jQsJjhwrcM
 EMail: arctis.netzwerk@aol.com
